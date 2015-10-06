@@ -1,0 +1,8 @@
+================================
+knowledge_base 0.1 release notes
+================================
+
+Bug fixes
+~~~~~~~~~
+
+ * Documentation fixes
