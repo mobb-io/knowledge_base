@@ -11,4 +11,3 @@ For this guide we’ll assume you’re interested in creating a Developer/Produc
         pomodoro_technique
         ztd
         linuxbrew
-
