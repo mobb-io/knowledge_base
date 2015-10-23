@@ -1,0 +1,10 @@
+================================
+knowledge_base 1.0 release notes
+================================
+
+Bug fixes
+~~~~~~~~~
+
+ * docker
+ * docker-compose
+ * docker-machine

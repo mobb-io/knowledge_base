@@ -2,7 +2,9 @@ Release notes
 =============
 
 .. toctree::
-   :maxdepth: 1
+:maxdepth: 2
+      :titlesonly:
 
+      1.0
+      0.1
    roadmap
-   0.1
