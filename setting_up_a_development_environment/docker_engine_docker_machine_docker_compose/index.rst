@@ -6,11 +6,11 @@ Docker, Docker-Machine and Docker-Compose
 
 
 .. toctree::
-:maxdepth: 3
+    :maxdepth: 3
 
-        docker
-        docker_machine
-        docker_compose
+    docker
+    docker_machine
+    docker_compose
 
 .. _Docker: https://www.docker.com
 .. _Docker-Compose: https://docs.docker.com/compose

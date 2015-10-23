@@ -5,6 +5,6 @@ This page outlines shows you what all you need to do to get a development enviro
 
 
 .. toctree::
-:maxdepth: 2
+    :maxdepth: 2
 
-        docker_engine_docker_machine_docker_compose/index
+    docker_engine_docker_machine_docker_compose/index

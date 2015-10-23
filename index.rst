@@ -35,10 +35,10 @@ Index
 -----
 
 .. toctree::
-:titlesonly:
+    :titlesonly:
 
-        getting_started/index
-        setting_up_a_development_environment/index
-        tips_tricks_and_tools/index
-        support
-        releases/index
+    getting_started/index
+    setting_up_a_development_environment/index
+    tips_tricks_and_tools/index
+    support
+    releases/index

@@ -6,8 +6,8 @@ This document will show you how to get up and running with SSD Cloud Hosting. Fo
 For this guide we’ll assume you’re interested in creating a Developer/Production Environment for customers, prospects, and partners to Build, Test and Deploy web applications using PaaS (Platform as a service).
 
 .. toctree::
-:maxdepth: 3
+    :maxdepth: 3
 
-        pomodoro_technique
-        ztd
-        linuxbrew
+    pomodoro_technique
+    ztd
+    linuxbrew
