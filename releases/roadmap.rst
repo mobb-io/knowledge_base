@@ -18,7 +18,7 @@ The `issue list <https://github.com/mobb-io/knowledge_base/issues>`_ gives a det
 
  * Python, Django web framework
  * multi-language support
- * include more about Continuous Deployment 
+ * include more about Continuous Deployment
 
 You decide
 ~~~~~~~~~~

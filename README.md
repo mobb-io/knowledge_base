@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/mobbioknowledge-base/badge/?version=latest)](http://mobbioknowledge-base.readthedocs.org/en/latest/?badge=latest)
+
 # mobb.io/knowledge_base docs
 
 To build them locally, install development requirements (in the venv directory):
